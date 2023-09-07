@@ -1,3 +1,4 @@
+https://bangwu2001.github.io/2023/09/07/Linux%E5%9F%BA%E7%A1%80/
 https://bangwu2001.github.io/2023/09/04/java_lambda%E8%A1%A8%E8%BE%BE%E5%BC%8F/
 https://bangwu2001.github.io/2023/08/29/jvm/JVM%E4%B8%8A%E7%AF%87/%E7%AC%AC%E4%BA%94%E7%AB%A0%EF%BC%9A%E8%99%9A%E6%8B%9F%E6%9C%BA%E6%A0%88/%E7%AC%AC%E4%BA%94%E7%AB%A0%EF%BC%9A%E8%99%9A%E6%8B%9F%E6%9C%BA%E6%A0%88/
 https://bangwu2001.github.io/2023/08/04/jvm/JVM%E4%B8%8A%E7%AF%87/%E7%AC%AC%E4%BA%8C%E7%AB%A0%EF%BC%9A%E7%B1%BB%E5%8A%A0%E8%BD%BD%E5%AD%90%E7%B3%BB%E7%BB%9F/%E7%AC%AC%E4%BA%8C%E7%AB%A0%EF%BC%9A%E7%B1%BB%E5%8A%A0%E8%BD%BD%E5%AD%90%E7%B3%BB%E7%BB%9F/
@@ -33,11 +34,12 @@ https://bangwu2001.github.io/tags/index.html
 https://bangwu2001.github.io/2023/07/08/%E4%BB%A3%E7%A0%81%E6%B5%8B%E8%AF%95/
 https://bangwu2001.github.io/2023/07/08/hello-world/
 https://bangwu2001.github.io/
+https://bangwu2001.github.io/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80/
 https://bangwu2001.github.io/tags/java/
 https://bangwu2001.github.io/tags/%E6%B5%8B%E8%AF%95/
-https://bangwu2001.github.io/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80/
+https://bangwu2001.github.io/categories/linux/
 https://bangwu2001.github.io/categories/java%E6%9D%82%E9%A1%B9/
-https://bangwu2001.github.io/categories/%E7%94%B5%E8%84%91%E5%95%86%E5%9F%8E%E9%A1%B9%E7%9B%AE/
 https://bangwu2001.github.io/categories/%E6%B5%8B%E8%AF%95/
+https://bangwu2001.github.io/categories/%E7%94%B5%E8%84%91%E5%95%86%E5%9F%8E%E9%A1%B9%E7%9B%AE/
 https://bangwu2001.github.io/categories/JVM/
 https://bangwu2001.github.io/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/
