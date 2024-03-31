@@ -2,6 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://bangwu2001.github.io/2024/04/01/%E9%87%8D%E7%82%B9%E7%9F%A5%E8%AF%86%E5%AD%A6%E4%B9%A0/01%20%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/</loc>
+    
+    <lastmod>2024-03-31</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://bangwu2001.github.io/2023/10/12/redis/redis/</loc>
+    
+    <lastmod>2024-02-20</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://bangwu2001.github.io/2024/01/16/%E5%89%8D%E7%AB%AF/08_Java%E7%A8%8B%E5%BA%8F%E5%91%98%E8%A6%81%E6%8E%8C%E6%8F%A1%E7%9A%84%E5%89%8D%E7%AB%AF-js/</loc>
     
     <lastmod>2024-01-16</lastmod>
@@ -230,15 +248,6 @@
     <loc>https://bangwu2001.github.io/2023/10/21/jvm/JVM%E4%B8%8A%E7%AF%87/%E7%AC%AC%E5%85%AB%E7%AB%A0%EF%BC%9A%E5%A0%86/%E7%AC%AC%E5%85%AB%E7%AB%A0%EF%BC%9A%E5%A0%86/</loc>
     
     <lastmod>2023-10-21</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://bangwu2001.github.io/2023/10/12/redis/redis/</loc>
-    
-    <lastmod>2023-10-12</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -553,7 +562,7 @@
 
   <url>
     <loc>https://bangwu2001.github.io/</loc>
-    <lastmod>2024-01-16</lastmod>
+    <lastmod>2024-03-31</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
@@ -561,28 +570,28 @@
   
   <url>
     <loc>https://bangwu2001.github.io/tags/java/</loc>
-    <lastmod>2024-01-16</lastmod>
+    <lastmod>2024-03-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://bangwu2001.github.io/tags/%E6%B5%8B%E8%AF%95/</loc>
-    <lastmod>2024-01-16</lastmod>
+    <lastmod>2024-03-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://bangwu2001.github.io/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9F%BA%E7%A1%80/</loc>
-    <lastmod>2024-01-16</lastmod>
+    <lastmod>2024-03-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://bangwu2001.github.io/tags/%E5%89%8D%E7%AB%AF/</loc>
-    <lastmod>2024-01-16</lastmod>
+    <lastmod>2024-03-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
@@ -591,84 +600,91 @@
   
   <url>
     <loc>https://bangwu2001.github.io/categories/java%E6%9D%82%E9%A1%B9/</loc>
-    <lastmod>2024-01-16</lastmod>
+    <lastmod>2024-03-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://bangwu2001.github.io/categories/12306%E4%B9%B0%E7%A5%A8%E7%B3%BB%E7%BB%9F/</loc>
-    <lastmod>2024-01-16</lastmod>
+    <lastmod>2024-03-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://bangwu2001.github.io/categories/%E6%B5%8B%E8%AF%95/</loc>
-    <lastmod>2024-01-16</lastmod>
+    <lastmod>2024-03-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://bangwu2001.github.io/categories/%E7%94%B5%E8%84%91%E5%95%86%E5%9F%8E%E9%A1%B9%E7%9B%AE/</loc>
-    <lastmod>2024-01-16</lastmod>
+    <lastmod>2024-03-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://bangwu2001.github.io/categories/linux/</loc>
-    <lastmod>2024-01-16</lastmod>
+    <lastmod>2024-03-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://bangwu2001.github.io/categories/JVM/</loc>
-    <lastmod>2024-01-16</lastmod>
+    <lastmod>2024-03-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://bangwu2001.github.io/categories/Docker/</loc>
-    <lastmod>2024-01-16</lastmod>
+    <lastmod>2024-03-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://bangwu2001.github.io/categories/Mybatis-Plus/</loc>
-    <lastmod>2024-01-16</lastmod>
+    <lastmod>2024-03-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://bangwu2001.github.io/categories/redis/</loc>
-    <lastmod>2024-01-16</lastmod>
+    <lastmod>2024-03-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://bangwu2001.github.io/categories/%E6%9D%82%E9%A1%B9/</loc>
-    <lastmod>2024-01-16</lastmod>
+    <lastmod>2024-03-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://bangwu2001.github.io/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BD%91%E7%BB%9C/</loc>
-    <lastmod>2024-01-16</lastmod>
+    <lastmod>2024-03-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
   
   <url>
     <loc>https://bangwu2001.github.io/categories/%E5%89%8D%E7%AB%AF/</loc>
-    <lastmod>2024-01-16</lastmod>
+    <lastmod>2024-03-31</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.2</priority>
+  </url>
+  
+  <url>
+    <loc>https://bangwu2001.github.io/categories/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/</loc>
+    <lastmod>2024-03-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.2</priority>
   </url>
