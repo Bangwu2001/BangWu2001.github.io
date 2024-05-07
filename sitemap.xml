@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://bangwu2001.github.io/2024/05/07/AI/02%20Spring%20AI/Spring%20AI/</loc>
+    
+    <lastmod>2024-05-07</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://bangwu2001.github.io/2024/05/07/AI/04%20%E7%99%BE%E5%BA%A6Comate%E6%8F%92%E4%BB%B6%E4%BD%BF%E7%94%A8/baidu%20comate/</loc>
     
     <lastmod>2024-05-07</lastmod>
@@ -12,15 +21,6 @@
   
   <url>
     <loc>https://bangwu2001.github.io/2024/05/07/AI/03%20Ollama/Ollama/</loc>
-    
-    <lastmod>2024-05-07</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://bangwu2001.github.io/2024/05/07/AI/02%20Spring%20AI/Spring%20AI/</loc>
     
     <lastmod>2024-05-07</lastmod>
     
