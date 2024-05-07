@@ -4,6 +4,81 @@
   
     
     <entry>
+      <title>Spring AI</title>
+      <link href="/2024/05/07/AI/02%20Spring%20AI/Spring%20AI/"/>
+      <url>/2024/05/07/AI/02%20Spring%20AI/Spring%20AI/</url>
+      
+        <content type="html"><![CDATA[<h1 id="Spring-AI"><a href="#Spring-AI" class="headerlink" title="Spring AI"></a>Spring AI</h1><p><a href="https://spring.io/projects/spring-ai">Spring AI官方文档</a></p><p>Spring AI 是一个面向人工智能工程的应用框架，它类似于一个客户端，可以实现向不同厂商对应的AI模型服务发送请求获取响应</p><p>SpringAI目前能够支持的AI模型</p><p><img src="/2024/05/07/AI/02%20Spring%20AI/Spring%20AI/shapes%2F2c5ba739c9c6bf88aa87ccd467c80bd8e4efdb9e%2Fd466355bdc5d94e3356db695cbf361e613ae78b3.png" alt="img" style="zoom:80%;"></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> AI </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> AI </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Baidu Comate</title>
+      <link href="/2024/05/07/AI/04%20%E7%99%BE%E5%BA%A6Comate%E6%8F%92%E4%BB%B6%E4%BD%BF%E7%94%A8/baidu%20comate/"/>
+      <url>/2024/05/07/AI/04%20%E7%99%BE%E5%BA%A6Comate%E6%8F%92%E4%BB%B6%E4%BD%BF%E7%94%A8/baidu%20comate/</url>
+      
+        <content type="html"><![CDATA[<h1 id="Baidu-Comate"><a href="#Baidu-Comate" class="headerlink" title="Baidu Comate"></a>Baidu Comate</h1><p><a href="https://comate.baidu.com/zh/download">Baidu Comate</a>基于文心大模型，结合百度积累多年的编程现场大数据和外部优秀开源数据，为你生成更符合实际研发场景的优质代码，提升编码效率</p><p>可以在VS Code或者IDEA中以插件的形式集成使用</p><h2 id="Idea中集成"><a href="#Idea中集成" class="headerlink" title="Idea中集成"></a>Idea中集成</h2><p>点击【Plugins】，进入 Marketplace 选项卡，搜索框输入【Comate】，找到 Baidu Comate 后点击安装</p><p><img src="/2024/05/07/AI/04%20%E7%99%BE%E5%BA%A6Comate%E6%8F%92%E4%BB%B6%E4%BD%BF%E7%94%A8/baidu%20comate/image-20240507204012558.png" alt="image-20240507204012558" style="zoom:67%;"></p><p>重启 IntelliJ IDE，重启成功后登录百度账号，即可使用</p><p>点击代码旁边按钮，可以使用对应的功能，比如代码检查，代码调优等</p><p><img src="/2024/05/07/AI/04%20%E7%99%BE%E5%BA%A6Comate%E6%8F%92%E4%BB%B6%E4%BD%BF%E7%94%A8/baidu%20comate/image-20240507204447566.png" alt="image-20240507204447566"></p><p><img src="/2024/05/07/AI/04%20%E7%99%BE%E5%BA%A6Comate%E6%8F%92%E4%BB%B6%E4%BD%BF%E7%94%A8/baidu%20comate/image-20240507204417398.png" alt="image-20240507204417398" style="zoom:67%;"></p><h2 id="生成代码"><a href="#生成代码" class="headerlink" title="生成代码"></a>生成代码</h2><p>比如我们需要编写一个功能的前端代码，其会自动给我们生成html代码、ccs代码和javascript代码</p><p><img src="/2024/05/07/AI/04%20%E7%99%BE%E5%BA%A6Comate%E6%8F%92%E4%BB%B6%E4%BD%BF%E7%94%A8/baidu%20comate/image-20240507221638012.png" alt="image-20240507221638012"></p><p><img src="/2024/05/07/AI/04%20%E7%99%BE%E5%BA%A6Comate%E6%8F%92%E4%BB%B6%E4%BD%BF%E7%94%A8/baidu%20comate/image-20240507221724449.png" alt="image-20240507221724449"></p><p>我们直接运行其给出的代码，展示的页面如下图所示：</p><p><img src="/2024/05/07/AI/04%20%E7%99%BE%E5%BA%A6Comate%E6%8F%92%E4%BB%B6%E4%BD%BF%E7%94%A8/baidu%20comate/image-20240507222017558.png" alt="image-20240507222017558" style="zoom:50%;"></p><p><img src="/2024/05/07/AI/04%20%E7%99%BE%E5%BA%A6Comate%E6%8F%92%E4%BB%B6%E4%BD%BF%E7%94%A8/baidu%20comate/image-20240507222133854.png" alt="image-20240507222133854" style="zoom:50%;"></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> AI </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> AI </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>Ollama的使用</title>
+      <link href="/2024/05/07/AI/03%20Ollama/Ollama/"/>
+      <url>/2024/05/07/AI/03%20Ollama/Ollama/</url>
+      
+        <content type="html"><![CDATA[<h1 id="Ollama"><a href="#Ollama" class="headerlink" title="Ollama"></a>Ollama</h1><h2 id="Ollama简介"><a href="#Ollama简介" class="headerlink" title="Ollama简介"></a>Ollama简介</h2><p>随着各个公司发布开源大模型，大模型管理工具越来越重要。Ollama就是一款优秀的开源大模型管理工具。利用Ollma开发者们可以自由的创建，训练模型，并且搭建本地化chatbot。同时Ollama还支持OpenAI同样形式的REST API以提升开发者效率。本质上讲Ollama是一个集成的本地大模型运行框架，它的出现极大地简化了AI模型的开发和使用过程。它支持Linux、Mac、Windows等系统，其内部不仅提供了丰富的AI模型库，而且提供了强大的API接口，可以方便将AI功能整合到用户自己具体的应用中。</p><p>Ollama的特点：</p><ul><li>一键式安装，无需繁琐的环境配置，简单易用</li><li>性能强大，可以充分利用本地的计算资源，可以仅仅利用CPU或者充分调用本地GPU来运行模型</li><li>功能丰富，提供了丰富的模型库，支持多种大语言模型并且支持多模态模型</li><li>提供了丰富的API接口，便于开发者结合自身需求灵活进行功能扩展和开发</li></ul><p>相关资料：<a href="https://ollama.com/">Ollama官网</a>  <a href="https://github.com/ollama/ollama">GitHub</a> <a href="https://ollama.com/library">支持的模型列表</a></p><h2 id="Ollama在Windows系统上的使用"><a href="#Ollama在Windows系统上的使用" class="headerlink" title="Ollama在Windows系统上的使用"></a>Ollama在Windows系统上的使用</h2><h3 id="Ollama安装"><a href="#Ollama安装" class="headerlink" title="Ollama安装"></a>Ollama安装</h3><p>直接在<a href="https://ollama.com/download/windows">官网</a>下载Windows平台的安装包</p><p><img src="/2024/05/07/AI/03%20Ollama/Ollama/image-20240507145152909.png" alt="image-20240507145152909"></p><p>安装完成之后就可以在菜单栏看到Ollama图标，此时就可以在Windows上使用Ollama了</p><h3 id="Ollama使用"><a href="#Ollama使用" class="headerlink" title="Ollama使用"></a>Ollama使用</h3><p>安装成功之后，我们在电脑任何位置打开命令行窗口，可以直接启动Ollama</p><p><img src="/2024/05/07/AI/03%20Ollama/Ollama/image-20240507150145854.png" alt="image-20240507150145854"></p><p>我们执行以下命令，可以自动pull对应的模型，并对模型进行加载，我们可以通过<a href="https://ollama.com/library">官网</a>查看支持模型列表和具体的模型细节</p><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">ollama run [modelname]</span><br></pre></td></tr></table></figure><p>首次执行上述命令会下载模型到本地，如果本地存在该模型，则不会被重复下载</p><p>我们以阿里巴巴通义千问4B模型使用为例展示如何本地使用大语言模型</p><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">ollama run qwen:4b</span><br></pre></td></tr></table></figure><p><img src="/2024/05/07/AI/03%20Ollama/Ollama/image-20240507152309824.png" alt="image-20240507152309824"></p><p>Ollama使用方式有两种，命令行的放方式和API的方式</p><h4 id="命令行方式使用"><a href="#命令行方式使用" class="headerlink" title="命令行方式使用"></a>命令行方式使用</h4><p><img src="/2024/05/07/AI/03%20Ollama/Ollama/image-20240507152416981.png" alt="image-20240507152416981"></p><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">ollama run [modelname] *prompt* #可以不进入命令行方式调用</span><br></pre></td></tr></table></figure><p><img src="/2024/05/07/AI/03%20Ollama/Ollama/image-20240507152709759.png" alt="image-20240507152709759"></p><figure class="highlight shell"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">ollama run [modelname] *prompt* --verbose  #添加--verbose可以查看模型推理的具体开销细节</span><br></pre></td></tr></table></figure><p><img src="/2024/05/07/AI/03%20Ollama/Ollama/image-20240507153558820.png" alt="image-20240507153558820"></p><p>退出命令行</p><p><img src="/2024/05/07/AI/03%20Ollama/Ollama/image-20240507152452012.png" alt="image-20240507152452012"></p><h4 id="API方式使用"><a href="#API方式使用" class="headerlink" title="API方式使用"></a>API方式使用</h4><p><a href="https://www.ruanyifeng.com/blog/2019/09/curl-reference.html">curl用法指南</a>  <a href="https://github.com/ollama/ollama/blob/main/docs/api.md">Ollama API官方文档</a></p><p>Ollama API默认的地址和端口是<code>http:localhost:11434</code>，可以在安装启动Ollama的系统中直接调用访问</p><p>下面我们利用<code>postman</code>构造HTTP请求，访问Ollama服务:</p><p><img src="/2024/05/07/AI/03%20Ollama/Ollama/image-20240507155607340.png" alt="image-20240507155607340"></p><p>响应</p><p><img src="/2024/05/07/AI/03%20Ollama/Ollama/image-20240507155704762.png" alt="image-20240507155704762"></p><p>如何修改默认端口号？</p><p>要更改地址和端口，可以添加以下环境变量：</p><ul><li>变量名：<code>OLLAMA_HOST</code></li><li>变量值（端口）：<code>:8000</code></li></ul><p>这样Ollama服务访问地址就可以变为<code>http://localhost:8000</code></p><h3 id="SpringAI整合Ollama"><a href="#SpringAI整合Ollama" class="headerlink" title="SpringAI整合Ollama"></a>SpringAI整合Ollama</h3><p><a href="https://docs.spring.io/spring-ai/reference/api/clients/ollama-chat.html">官方文档</a></p><h4 id="导入依赖"><a href="#导入依赖" class="headerlink" title="导入依赖"></a>导入依赖</h4><figure class="highlight xml"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br></pre></td><td class="code"><pre><span class="line"><span class="tag">&lt;<span class="name">dependency</span>&gt;</span></span><br><span class="line">   <span class="tag">&lt;<span class="name">groupId</span>&gt;</span>org.springframework.ai<span class="tag">&lt;/<span class="name">groupId</span>&gt;</span></span><br><span class="line">   <span class="tag">&lt;<span class="name">artifactId</span>&gt;</span>spring-ai-ollama-spring-boot-starter<span class="tag">&lt;/<span class="name">artifactId</span>&gt;</span></span><br><span class="line"><span class="tag">&lt;/<span class="name">dependency</span>&gt;</span></span><br></pre></td></tr></table></figure><h4 id="相关配置"><a href="#相关配置" class="headerlink" title="相关配置"></a>相关配置</h4><figure class="highlight properties"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line"><span class="comment">#本地ollama服务地址</span></span><br><span class="line"><span class="attr">spring.ai.ollama.base-url</span>=<span class="string">http://localhost:11434</span></span><br><span class="line"><span class="comment">#启动allama客户端</span></span><br><span class="line"><span class="attr">spring.ai.ollama.chat.enabled</span>=<span class="string">true</span></span><br><span class="line"><span class="comment">#指定使用的模型</span></span><br><span class="line"><span class="attr">spring.ai.ollama.chat.options.model</span>=<span class="string">qwen:4b</span></span><br></pre></td></tr></table></figure><h3 id="编写简单controller代码"><a href="#编写简单controller代码" class="headerlink" title="编写简单controller代码"></a>编写简单controller代码</h3><figure class="highlight java"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br></pre></td><td class="code"><pre><span class="line"><span class="meta">@RestController</span></span><br><span class="line"><span class="keyword">public</span> <span class="keyword">class</span> <span class="title class_">ChatController</span> &#123;</span><br><span class="line"></span><br><span class="line">    <span class="keyword">private</span> <span class="keyword">final</span> OllamaChatClient chatClient;</span><br><span class="line"></span><br><span class="line">    <span class="meta">@Autowired</span></span><br><span class="line">    <span class="keyword">public</span> <span class="title function_">ChatController</span><span class="params">(OllamaChatClient chatClient)</span> &#123;</span><br><span class="line">        <span class="built_in">this</span>.chatClient = chatClient;</span><br><span class="line">    &#125;</span><br><span class="line"></span><br><span class="line">    <span class="meta">@GetMapping(&quot;/ai/generate&quot;)</span></span><br><span class="line">    <span class="keyword">public</span> Map <span class="title function_">generate</span><span class="params">(<span class="meta">@RequestParam(value = &quot;message&quot;, defaultValue = &quot;Tell me a joke&quot;)</span> String message)</span> &#123;</span><br><span class="line">        <span class="keyword">return</span> Map.of(<span class="string">&quot;generation&quot;</span>, chatClient.call(message));</span><br><span class="line">    &#125;</span><br><span class="line"></span><br><span class="line">    <span class="meta">@GetMapping(&quot;/ai/generateStream&quot;)</span></span><br><span class="line"><span class="keyword">public</span> Flux&lt;ChatResponse&gt; <span class="title function_">generateStream</span><span class="params">(<span class="meta">@RequestParam(value = &quot;message&quot;, defaultValue = &quot;Tell me a joke&quot;)</span> String message)</span> &#123;</span><br><span class="line">        <span class="type">Prompt</span> <span class="variable">prompt</span> <span class="operator">=</span> <span class="keyword">new</span> <span class="title class_">Prompt</span>(<span class="keyword">new</span> <span class="title class_">UserMessage</span>(message));</span><br><span class="line">        <span class="keyword">return</span> chatClient.stream(prompt);</span><br><span class="line">    &#125;</span><br><span class="line"></span><br><span class="line">&#125;</span><br></pre></td></tr></table></figure><h4 id="测试"><a href="#测试" class="headerlink" title="测试"></a>测试</h4><p>构造请求<code>http://localhost:8080/ai/generate?message=武汉景区</code></p><p>响应结果:</p><p><img src="/2024/05/07/AI/03%20Ollama/Ollama/image-20240507211513747.png" alt="image-20240507211513747"></p><h2 id="参考资料"><a href="#参考资料" class="headerlink" title="参考资料"></a>参考资料</h2><p><a href="https://www.youtube.com/watch?v=POf4qbohP9k">Ollama 使用指南 </a></p><p><a href="https://ollama.com/">Ollama官网</a></p><p><a href="https://github.com/ollama/ollama">Ollama GitHub</a></p><p><a href="https://www.sysgeek.cn/ollama-on-windows/">Ollama on Windows：本地运行大型语言模型（LLM）的新利器</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> AI </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> AI </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>git版本控制</title>
       <link href="/2024/05/06/git%E5%AD%A6%E4%B9%A0/Git/"/>
       <url>/2024/05/06/git%E5%AD%A6%E4%B9%A0/Git/</url>
